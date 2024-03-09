@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[103],{103:(e,r,n)=>{n.r(r),n.d(r,{default:()=>i});var t=n(6446),s=n(5865),c=n(3216),l=n(579);const i=()=>{const e=(0,c.r5)();return console.log(e),(0,l.jsx)(l.Fragment,{children:(0,l.jsx)(t.A,{style:{marginLeft:250},children:(0,l.jsx)(s.A,{children:"Error Loadinng Error in the market"})})})}}}]);
+//# sourceMappingURL=103.3f82a079.chunk.js.map
